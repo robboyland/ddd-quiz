@@ -3,6 +3,6 @@
     "slim/slim": "2.*"
   },
   "autoload": {
-    "psr-4": { "QuizApp\\": "./lib/" }
+    "psr-4": { "QuizApp\\": "QuizApp" }
   }
 }
